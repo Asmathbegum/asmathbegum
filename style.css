@@ -1,0 +1,44 @@
+body
+{
+    text-align: center;
+    background-color: rgba(98, 18, 108, 0.841);
+    color: rgb(212, 165, 108);
+    border: 43px solid #dbd582eb;
+    margin: 0px;
+}
+h1
+{
+    color: #1abed3;
+}
+
+h1
+{
+    color: #1abed3;
+}
+h2 
+{
+    color: #13171aeb;
+}
+
+strike 
+{
+    background-color: rgb(0, 255, 60);
+    color: rgb(160, 47, 47);
+}
+
+input
+{
+    height: 35px;
+    width: 245px;
+    border: 2px solid 98;18,108,0.841;
+    border-radius: 25px;
+    padding-left : 2%;
+    font-weight : bold;
+}
+.myclass
+{
+    background-color: #f19f;
+    font-size: 25px;
+    color: black;
+    margin: 25px;
+}
